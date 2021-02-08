@@ -1,0 +1,74 @@
+
+ html { /* This is for my background image to fill the whole page and so that i t wil be compatible with other web browsers.*/
+  background: url(img/img2.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {/* For my name at the top of the page with a black background for the letters to stand out*/
+    background-color: black;
+    font-family: fantasy;
+    padding-top: 30px;
+    height:70px;
+    font-size: 55px;
+    color: white
+}
+
+
+
+h2 {/*This will apply to all h2 and h3*/
+   text-align: center;
+    padding:10px;
+    font-size: 22px;
+   font-family: fantasy;
+   color: white;
+}
+h3 {
+    color: white;
+    text-align: center;
+    background-color: dimgray;
+    font-family: fantasy;
+}
+
+
+p {/*This is for my intro, I know there is a proper way to do this and I cant wait to learn.*/
+    background-color: dimgray;
+    height: 80px;
+    padding: 10px;
+    color: white;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+article {/* background color and format for my about me info.*/
+background-color:black;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+    margin-left: 500px;
+    height:450px;
+}
+
+ article li {/*TO center my text.*/
+    text-align: center;
+    
+}
+
+li {/*Text color and format for my contact info and about me info*/
+    color: white;
+    text-align: justify;
+    font-family: fantasy;
+    padding: 10px;
+    padding-bottom: 10px;
+    font-size: 22px;
+}
+
+ol
+    text-align: center;
+}
+    
+footer {/*just a plain footer at the bottom*/
+color: dimgray; 
+ height: 0px; 
+}
