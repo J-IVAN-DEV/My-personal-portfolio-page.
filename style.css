@@ -15,6 +15,9 @@ h1 {/* For my name at the top of the page with a black background for the letter
     font-size: 55px;
     color: white
 }
+img {
+float: left;
+}
 
 
 
@@ -24,7 +27,8 @@ h2 {/*This will apply to all h2 and h3*/
     font-size: 22px;
    font-family: fantasy;
    color: white;
-}
+} 
+
 h3 {
     color: white;
     text-align: center;
