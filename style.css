@@ -50,7 +50,7 @@ background-color:black;
     height:450px;
 }
 
- article li {/*TO center my text.*/
+ article , li {/*TO center my text.*/
     text-align: center;
     
 }
@@ -64,7 +64,7 @@ li {/*Text color and format for my contact info and about me info*/
     font-size: 22px;
 }
 
-ol
+ol {
     text-align: center;
 }
     
